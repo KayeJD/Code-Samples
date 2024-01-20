@@ -1,0 +1,19 @@
+UserFilesProj:
+
+>>Create new employee files (1)
+>>Edit employee files (2)
+	>>Set up EmpID
+	>>Add new information
+>>Global search employee database (4)
+	>>Employee ID
+	>>Employee name
+>>Employ organization algorithm
+
+
+--------------------------------------------------------------------
+EmployeeAccountManager:
+
+>>Edit personal information 
+	>>Password protected
+	>>Manager bypass system for password
+>>CANNOT delete user file
